@@ -29,7 +29,7 @@ Get your editing pipeline up and running in just a few simple steps:
 ### 1. Clone & Install Dependencies
 
 ```bash
-git clone https://github.com/your-username/podcast-edit-pro.git
+https://github.com/sedem12/PodcastEdit-Pro.git
 cd podcast-edit-pro
 pip install -r requirements.txt
 
